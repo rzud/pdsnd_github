@@ -7,7 +7,7 @@
 > *bikeshare*
 
 ### Description
-Describe what your project is about and what it does
+> *It's a brogram to manage and get INFO about a Bike stores*
 
 ### Files used
 Include the files used
