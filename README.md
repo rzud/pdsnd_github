@@ -16,4 +16,6 @@
 > bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html
+https://stackoverflow.com/questions/23853553/python-pandas-how-to-read-only-first-n-rows-of-csv-files-in
+https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
