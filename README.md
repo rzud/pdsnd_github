@@ -10,10 +10,10 @@
 *It's a brogram to manage and get INFO about a Bike stores*
 
 ### Files used
-> chicago.csv
-> new_york_city.csv
-> washington.csv
-> bikeshare.py
+* chicago.csv
+* new_york_city.csv
+* washington.csv
+* bikeshare.py
 
 ### Credits
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html
