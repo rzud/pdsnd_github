@@ -19,3 +19,4 @@
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html
 https://stackoverflow.com/questions/23853553/python-pandas-how-to-read-only-first-n-rows-of-csv-files-in
 https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
+https://pythonat.com/articles/مكتبة-pandas-الخطوة-الثانية-في-علم-البيان-2/
